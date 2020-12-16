@@ -33,3 +33,6 @@ print(sol.longestPalindrome("babad"))
 print(sol.longestPalindrome("cbbd"))
 print(sol.longestPalindrome("a"))
 print(sol.longestPalindrome("ccccccccccccccccccccccccccc"))
+
+# 최소 단위를 다양한 방법으로 접근해보자
+# 해결 방법에 대한 접근은 좋았으나,,, 시작점에 대한 접근 방법도 다양하게 접근해보자 고착되지 말고
