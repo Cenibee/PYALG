@@ -1,9 +1,6 @@
 '''
-<<<<<<< HEAD
 leetcode 647 - Palindromic Substrings
 https://leetcode.com/problems/palindromic-substrings/
-=======
->>>>>>> 팰린드롬한 부분 문자열 세기
 문자열이 주어졌을 때, 펠린드롬 부분 문자열이 몇 개가 있는지 세어라
 같은 부분 문자열이라도 시작, 종료 인덱스가 다르다면 다른 문자열로 센다.
 '''
