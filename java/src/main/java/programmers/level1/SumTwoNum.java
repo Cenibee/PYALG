@@ -3,6 +3,9 @@ package programmers.level1;
 import java.util.Set;
 import java.util.TreeSet;
 
+/**
+ * https://programmers.co.kr/learn/courses/30/lessons/68644
+ */
 public class SumTwoNum {
     public int[] solution(int[] numbers) {
         Set<Integer> set = new TreeSet<>();
